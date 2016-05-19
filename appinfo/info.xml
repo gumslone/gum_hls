@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<info>
+	<id>gum_hls</id>
+	<name>Gum HLS Video Player</name>
+	<description>Video player that streams hls videos directly from your owncloud.</description>
+	<version>0.1</version>
+	<licence>AGPL</licence>
+	<author>GumSlone</author>
+	<require>9.0.2</require>
+</info>
