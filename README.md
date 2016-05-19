@@ -1,6 +1,6 @@
 # gum_hls
 
-I have created an app for owncloud 9.0.2 its in early development stage, but most important features are working fine,
+I have created an app for owncloud 9.0.2 which is in early development stage, but most important features are working fine,
 this app adds a HLS streaming capability to your owncloud storage,
 you can play almost any type of video like avi, mkv in your browser,
 ffmpeg converts the videos to web playable format.
