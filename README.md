@@ -17,8 +17,11 @@ $policy->addAllowedFrameDomain('\'self\'');
 and add after it:
 
 $policy->addAllowedObjectDomain('\'self\'');
+
 $policy->addAllowedChildSrcDomain('\'self\'');
+
 $policy->addAllowedConnectDomain('\'self\'');
+
 $policy->addAllowedMediaDomain('\'self\'');
 
 this app is based on idea and work from https://apps.owncloud.com/content/sh...content=174642
